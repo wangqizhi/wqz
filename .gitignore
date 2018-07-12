@@ -105,3 +105,6 @@ venv.bak/
 
 # wqz download cache
 .wqz_cache/
+
+#.vscode-upload.json
+.vscode-upload.json
